@@ -154,8 +154,8 @@ const carrito = [
 
 // // Reduce entrega resultado
 
-resultado = carrito.reduce((total, producto) => total + producto.precio, 0);
-console.table(resultado);
+// resultado = carrito.reduce((total, producto) => total + producto.precio, 0);
+// console.table(resultado);
 
 // // ESTA LA MEJOR OPCION PARA FILTRAR DATOS, DEVUELVE RESULTADO CON SUS ATRIBUTOS
 // resultado=carrito.filter(function(producto){
